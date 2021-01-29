@@ -1,0 +1,5 @@
+black
+isort
+pre-commit
+pylint
+python-gitlab==2.6.0
